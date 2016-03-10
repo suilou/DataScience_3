@@ -7,3 +7,5 @@ The above preliminary "merged_data.csv" was used to extract variables containing
 Data "merged_data2" underwent further process to generate a summary data set, which gives the average of each variable for each activity and each subject, regardless whether the subject was used for trainging or testing.
 
 R packages used for this project, as well as other references, can be found in "run_analysis.R". Note that the script was written in such a style that it was for one-time-use only, for learning and exploring the data, and for documenting the thought process.
+
+For detailed descriptions of features, please see the link about the experiment in "GettingCleaningDataCourseProject_Coursera.pdf" and in "features_info.txt" in folder "RawDataDescriptions".  
