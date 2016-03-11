@@ -4,7 +4,7 @@ The project assignment can be found in "GettingCleaningDataCourseProject_Courser
 
 Metadata and readme files of the raw data can be found in subfolder "RawDataDescriptions".
 
-CookBook.md is the file that gives descriptions about the variables, the data, and processes used to generate "merged_data2.csv" and "meanSet.csv".
+CodeBook.md is the file that gives descriptions about the variables, the data, and processes used to generate "merged_data2.csv" and "meanSet.csv".
 
 "run_analysisR" is an R script that was used to download and process the raw data, and generate output files "merged_data2.csv" and "meanSet.csv". 
 
